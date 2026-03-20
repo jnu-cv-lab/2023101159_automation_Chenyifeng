@@ -25,7 +25,7 @@
 
 ## 环境配置
 ### 1、环境要求
-操作系统：Windows 10/11、Linux（Ubuntu 18.04+）、macOS 12+
+操作系统：Windows 11、Linux（Ubuntu 18.04+）、macOS 12+
 Python版本：3.7及以上（推荐3.8-3.10，兼容性最佳）
 
 ### 2. 依赖安装
