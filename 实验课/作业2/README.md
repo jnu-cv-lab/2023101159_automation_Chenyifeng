@@ -152,5 +152,3 @@ destroyAllWindows();
 ✅ VS Code 编译 + 调试配置
 
 掌握了 Linux 下 C++ 图像处理的完整流程，为后续视觉算法开发奠定基础。
-
-告诉我就行！
