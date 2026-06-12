@@ -1,6 +1,4 @@
-# 羽毛球击球动作识别实验 - README.md
-```markdown
-# 作业11：基于MediaPipe Pose与Transformer的羽毛球击球动作识别
+## 作业11：基于MediaPipe Pose与Transformer的羽毛球击球动作识别
 
 ## 📂 项目结构
 ```
